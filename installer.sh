@@ -9,7 +9,7 @@ echo "Bangla fonts download and Installation Proccess Initiated!"
 echo "-----------------------------------------------------------------"
 
 # Var
-targetUrl=("http://lib.saifur.ml/fonts/bFonts.tar.gz" "https://raw.githubusercontent.com/mdsaifurrahmann/Linux-Bangla-Font-Installer/master/lib/bFonts.tar.gz")
+targetUrl=("http://lib.saifur.xyz/fonts/bFonts.tar.gz" "https://raw.githubusercontent.com/mdsaifurrahmann/Linux-Bangla-Font-Installer/master/lib/bFonts.tar.gz")
 targeted=""
 # it will choose the most leastimal server
 
